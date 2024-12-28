@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oztur\\source\\repos\\kargotest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|c:\\users\\oztur\\source\\repos\\kargotest1\\kargotest1\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|solutionrelative:kargotest1\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|solutionrelative:kargotest1\\anaekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\y\u00F6neticiekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|solutionrelative:kargotest1\\y\u00F6neticiekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\y\u00F6neticiekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|solutionrelative:kargotest1\\y\u00F6neticiekran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|solutionrelative:kargotest1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AE6EE3E-2B6E-4B82-A22C-33FF2140CE7E}|kargotest1\\kargotest1.csproj|solutionrelative:kargotest1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Y\u00F6neticiEkran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\Y\u00F6neticiEkran.cs",
+              "RelativeDocumentMoniker": "kargotest1\\Y\u00F6neticiEkran.cs",
+              "ToolTip": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\Y\u00F6neticiEkran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kargotest1\\Y\u00F6neticiEkran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:16:14.001Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Y\u00F6neticiEkran.cs",
+              "DocumentMoniker": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\Y\u00F6neticiEkran.cs",
+              "RelativeDocumentMoniker": "kargotest1\\Y\u00F6neticiEkran.cs",
+              "ToolTip": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\Y\u00F6neticiEkran.cs",
+              "RelativeToolTip": "kargotest1\\Y\u00F6neticiEkran.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAcwJwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:23:16.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnaEkran.cs",
+              "DocumentMoniker": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\AnaEkran.cs",
+              "RelativeDocumentMoniker": "kargotest1\\AnaEkran.cs",
+              "ToolTip": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\AnaEkran.cs",
+              "RelativeToolTip": "kargotest1\\AnaEkran.cs",
+              "ViewState": "AQIAAJIEAAAAAAAAAAAvwLEEAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T09:14:50.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnaEkran.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\AnaEkran.cs",
+              "RelativeDocumentMoniker": "kargotest1\\AnaEkran.cs",
+              "ToolTip": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\AnaEkran.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kargotest1\\AnaEkran.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:36:33.87Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\Form1.cs",
+              "RelativeDocumentMoniker": "kargotest1\\Form1.cs",
+              "ToolTip": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\Form1.cs",
+              "RelativeToolTip": "kargotest1\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBkAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:34:58.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\Form1.cs",
+              "RelativeDocumentMoniker": "kargotest1\\Form1.cs",
+              "ToolTip": "C:\\Users\\oztur\\source\\repos\\kargotest1\\kargotest1\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kargotest1\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:55:52.843Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

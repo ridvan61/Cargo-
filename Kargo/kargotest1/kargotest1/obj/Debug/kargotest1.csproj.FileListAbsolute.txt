@@ -1,0 +1,12 @@
+C:\Users\oztur\source\repos\kargotest1\kargotest1\bin\Debug\kargotest1.exe
+C:\Users\oztur\source\repos\kargotest1\kargotest1\bin\Debug\kargotest1.exe.config
+C:\Users\oztur\source\repos\kargotest1\kargotest1\obj\Debug\kargotest1.csproj.AssemblyReference.cache
+C:\Users\oztur\source\repos\kargotest1\kargotest1\obj\Debug\kargotest1.AnaEkran.resources
+C:\Users\oztur\source\repos\kargotest1\kargotest1\obj\Debug\kargotest1.Form1.resources
+C:\Users\oztur\source\repos\kargotest1\kargotest1\obj\Debug\kargotest1.Properties.Resources.resources
+C:\Users\oztur\source\repos\kargotest1\kargotest1\obj\Debug\kargotest1.YöneticiEkran.resources
+C:\Users\oztur\source\repos\kargotest1\kargotest1\obj\Debug\kargotest1.csproj.GenerateResource.cache
+C:\Users\oztur\source\repos\kargotest1\kargotest1\obj\Debug\kargotest1.csproj.CoreCompileInputs.cache
+C:\Users\oztur\source\repos\kargotest1\kargotest1\obj\Debug\kargotest1.exe
+C:\Users\oztur\source\repos\kargotest1\kargotest1\obj\Debug\kargotest1.pdb
+C:\Users\oztur\source\repos\kargotest1\kargotest1\bin\Debug\kargotest1.pdb
